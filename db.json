@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "Adam",
+      "address": "America",
+      "email": "adam@gmail.com",
+      "contact": "2342342343",
+      "id": 1
+    },
+    {
+      "name": "Oyahebholo kenneth izosea",
+      "email": "Lamakubukuro@gmail.com",
+      "contact": "2345678",
+      "address": "Oyahebholo Kenneth Izosea",
+      "id": 2
+    },
+    {
+      "name": "Oyahebholo kenneth izosea",
+      "email": "Lamakubukuro@gmail.com",
+      "contact": "2345",
+      "address": "Ibadan",
+      "id": 3
+    },
+    {
+      "name": "Oyahebholo kenneth izosea",
+      "email": "Lamakubukuro@gmail.com",
+      "contact": "2323",
+      "address": "Oyahebholo Kenneth Izosea",
+      "id": 4
+    },
+    {
+      "name": "Oyahebholo kenneth izosea",
+      "email": "oyahebholokennethizosea@gmail.com",
+      "contact": "345678",
+      "address": "QWEQWE",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+body{
+ margin: 0;
+ padding: .5rem;
+ box-sizing: border-box;
+ background-color: rgb(218, 218, 218);
+}
+.addUserCon{
+ display: flex;
+ flex-direction: column;
+ max-width: 30rem;
+ /* align-items: center; */
+ justify-content: center;
+ margin: 6rem auto;
+ /* padding-bottom: 2rem; */
+ /* display: flex; */
+  /* flex-direction: column; */
+  align-items: center;
+  margin: 4rem auto;
+  /* max-width: 90rem; */
+  background-color: rgb(231, 206, 255);
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0em 0em 10em rgb(255, 255, 255);
+}
+.addUserCon h4{
+ align-self: center;
+ font-size: clamp(2rem, 1rem, 4rem);
+ margin-bottom: 2rem;
+}
+
+.addUserCon h3 {
+ /* align-self: center; */
+ font-size: clamp(2px, 1rem, 4rem);
+ margin-bottom: 2rem;
+ background-color: rgb(255, 255, 255);
+ color: rgb(177, 1, 1);
+ padding: .4rem;
+ border-radius: 10px;
+}
+
+.input{
+ width: 28rem;
+}
+
+.btn{
+ max-width: 100px;
+ transition: transform 450ms;
+ /* align-self: center; */
+}
+
+.btn:hover {
+ transform: scale(1.07);
+}
+
+/* .btn_con { */
+ /* max-width: 100px; */
+ /* align-self: center; */
+ /* margin-bottom: 1rem; */
+/* } */
+.btn_con {
+ transition: transform 450ms;
+}
+
+.btn_con:hover {
+ transform: scale(0.8);
+}
+
+.btn_con2 {
+ max-width: 100px;
+ transition: transform 450ms;
+}
+
+.btn_con2:hover {
+ transform: scale(0.8);
+}
+
+.main_con{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ margin: 4rem auto;
+ max-width: 90rem;
+ background-color: rgb(231, 206, 255);
+ padding: 1rem;
+ border-radius: 10px;
+ box-shadow: 0em 0em 10em rgb(255, 255, 255);
+}
